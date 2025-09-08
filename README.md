@@ -10,7 +10,7 @@
 
 **AutoRightClick** is a Minecraft mod designed for the Skysim server that automates right-clicking with a specific tool (the *Rocky Ultra-Fusion Drill ZQ-9000*) while maintaining full control over your mouse. It also includes mouse release functionality, prevents accidental slot changes during automation, and supports a toggleable mouse ungrab feature.  
 
-This mod is perfect for players who want to automate repetitive actions without losing control of their gameplay.  
+This mod is perfect for players who want to automate repetitive actions while playing other games or AFK.  
 
 ---
 
