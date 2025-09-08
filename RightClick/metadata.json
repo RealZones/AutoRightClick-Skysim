@@ -1,0 +1,7 @@
+{
+    "name": "AutoRightClick",
+    "version": "1.0.0",
+    "creator": "YourName",
+    "description": "Automatically holds right click for mining drills in SkySim.",
+    "entry": "main.js"
+}
